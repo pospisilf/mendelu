@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ethiopian Coffee Beans",
+      "category": "coffee",
+      "price": 12.99,
+      "description": "Premium Ethiopian coffee beans with floral and citrus notes",
+      "image": "https://images.unsplash.com/photo-1447933601403-0c6688de566e?w=500",
+      "stock": 100
+    },
+    {
+      "id": 2,
+      "name": "Green Tea",
+      "category": "tea",
+      "price": 8.99,
+      "description": "Japanese green tea with a fresh, grassy flavor",
+      "image": "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?w=500",
+      "stock": 150
+    },
+    {
+      "id": 3,
+      "name": "Ceramic Coffee Mug",
+      "category": "accessories",
+      "price": 15.99,
+      "description": "Handcrafted ceramic mug perfect for your morning coffee",
+      "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=500",
+      "stock": 50
+    },
+    {
+      "id": 4,
+      "name": "French Press",
+      "category": "accessories",
+      "price": 29.99,
+      "description": "Classic French press for brewing perfect coffee",
+      "image": "https://images.unsplash.com/photo-1610889556528-9a770e32642f?w=500",
+      "stock": 30
+    },
+    {
+      "id": 5,
+      "name": "Earl Grey Tea",
+      "category": "tea",
+      "price": 9.99,
+      "description": "Classic Earl Grey tea with bergamot oil",
+      "image": "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=500",
+      "stock": 200
+    },
+    {
+      "id": 6,
+      "name": "Coffee Grinder",
+      "category": "accessories",
+      "price": 39.99,
+      "description": "Manual coffee grinder for fresh ground coffee",
+      "image": "https://images.unsplash.com/photo-1610889556528-9a770e32642f?w=500",
+      "stock": 25
+    }
+  ]
+} 
