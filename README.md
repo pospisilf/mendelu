@@ -13,7 +13,7 @@ This repository contains my academic work from the Open Informatics study progra
 
 ### Erasmus
 
-I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, Faculty of Electrical Engineering and Computer Science (FERI), Slovenia. See [pospisilf/um-feri](https://github.com/pospisilf/um-si) repository.
+I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, Faculty of Electrical Engineering and Computer Science (FERI), Slovenia. See [pospisilf/um-feri](https://github.com/pospisilf/um-feri) repository.
 
 ## 📚 Courses
 >
