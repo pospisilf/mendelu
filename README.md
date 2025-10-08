@@ -21,7 +21,7 @@ I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, F
 
 ### Cybersecurity
 
-- ENC-KK - Cybercrime (IS/ICT Security)
+- ENC-KK - Cybercrime
 - [ENC-K - Cryptology](./enc-k/)
 - [ENC-KB - Cyber Security](./enc-kb/)
 - [ENC-IKB - Implementation of Cyber Security](./enc-ikb/)
@@ -39,7 +39,7 @@ I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, F
 
 ### User Interfaces, Graphics & HCI
 
-- ENC-NUR - User Interface Design (User Interfaces)
+- ENC-NUR - User Interface Design
 - ENC-VGA - Graphic Application Development
 - [ENC-DA - Digital Assistants](./enc-da/)
 
