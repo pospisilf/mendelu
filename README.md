@@ -1,6 +1,6 @@
 # 🎓 MENDELU - Academic Repository
 
-> **Master's Thesis:** Extension for the ExTester testing framework in Visual Studio Code *(will be published in Q1/2026)*
+> **Master's Thesis:** Extension for the ExTester testing framework in Visual Studio Code — see [pospisilf/master-thesis](https://github.com/pospisilf/master-thesis) repository
 
 This repository contains my academic work from the Open Informatics study program at the Faculty of Business and Economics, Mendel University in Brno.
 
