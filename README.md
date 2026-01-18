@@ -1,6 +1,8 @@
 # 🎓 MENDELU - Academic Repository
 
-> **Master's Thesis:** Extension for the ExTester testing framework in Visual Studio Code — see [pospisilf/master-thesis](https://github.com/pospisilf/master-thesis) repository
+**Master's Thesis:** Extension for the ExTester testing framework in Visual Studio Code. See the [pospisilf/masters-thesis](https://github.com/pospisilf/masters-thesis) repository.
+
+---
 
 This repository contains my academic work from the Open Informatics study program at the Faculty of Business and Economics, Mendel University in Brno.
 
@@ -13,11 +15,11 @@ This repository contains my academic work from the Open Informatics study progra
 
 ### Erasmus
 
-I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, Faculty of Electrical Engineering and Computer Science (FERI), Slovenia. See [pospisilf/um-feri](https://github.com/pospisilf/um-feri) repository.
+I was on Erasmus during my 3rd semester (winter) at the University of Maribor, Faculty of Electrical Engineering and Computer Science (FERI), Slovenia. See the [pospisilf/um-feri](https://github.com/pospisilf/um-feri) repository.
 
 ## 📚 Courses
 >
-> Note: These courses are arranged by general category to improve readability, not by formal academic specialization.
+> Note: These courses are arranged by general category for readability, not by formal academic specialization.
 
 ### Cybersecurity
 
@@ -35,7 +37,7 @@ I was on Erasmus during my 3rd semester (Winter) at the University of Maribor, F
 - ENC-NSS - Software and Services Deployment
 - ENC-DSII - Master's Thesis Seminar IS/ICT
 - ENC-P8II - Practical Training IS/ICT
-- ENC-DPII - Master's Thesis IS/ICT
+- [ENC-DPII - Master's Thesis IS/ICT](https://github.com/pospisilf/master-thesis)
 
 ### User Interfaces, Graphics & HCI
 
